@@ -1,6 +1,10 @@
 ## Flappy Bird AI Project
 
-![AI playing Flappy Bird in 9:16 aspect ratio](docs/images/ai_demo.gif)
+<p align="center">
+  <a href="<YOUR_YOUTUBE_URL_HERE>">
+    <img src="docs/images/thumbnail.png" alt="AI playing Flappy Bird" width="350"/>
+  </a>
+</p>
 
 This project implements the classic Flappy Bird game and integrates a reinforcement learning algorithm (which reads a saved `.pkl` model) to train and run an AI agent to play the game autonomously.
 
