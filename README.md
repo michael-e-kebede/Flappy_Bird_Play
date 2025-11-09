@@ -45,4 +45,11 @@ python main.py
 ```
 Controls: Use the **W** key or the **Up** Arrow key on your keyboard to make the bird jump.
 
+## Credits and Acknowledgments
+
+* **PyGame Development:** [Video Tutorial](https://www.youtube.com/watch?v=UZg49z76cLw&t=915s)
+* **Original Asset Files:** [Flappy Bird Assets Repository](https://github.com/samuelcust/flappy-bird-assets)
+
+
+
 
