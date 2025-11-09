@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="<YOUR_YOUTUBE_URL_HERE>">
-    <img src="docs/images/ai_demo.gif" alt="AI playing Flappy Bird" width="350"/>
+    <img src="docs/images/ai_demo.gif" alt="AI Flappy Bird" width="350"/>
   </a>
 </p>
 
