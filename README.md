@@ -6,7 +6,7 @@
   </a>
 </p>
 
-This project implements the classic Flappy Bird game and integrates a reinforcement learning algorithm (which reads a saved `.pkl` model) to train and run an AI agent to play the game autonomously.
+This project implements the classic Flappy Bird game and integrates a reinforcement learning algorithm (which reads a saved `.pkl` model) to train and run an AI agent to play the game autonomously. The algorithm used for this is called [NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html) which is a genetic algorithm that evolves both the connection weights and the structure (topology) of a neural network simultaneously. It starts with minimal, simple networks and gradually increases complexity (adding nodes and connections) only when the simpler structure stops improving performance.
 
 ---
 
