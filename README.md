@@ -30,3 +30,15 @@ If you wish to see the **trained algorithm** (which reads the `.pkl` model) play
 
 ```bash
 python replay.py
+```
+
+### Playing Manually (User Mode)
+
+If you want to play the game yourself, you need to run the main application file:
+
+```bash
+python main.py
+```
+Controls: Use the **W** key or the **Up** Arrow key on your keyboard to make the bird jump.
+
+
